@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1543447102 source:e:\m1\main.cpp
+	<iostream>
+	<cmath>
+
+1543449062 source:e:\bin. to decimal convertor\main.cpp
+	<iostream>
+	<cmath>
+	<stdlib.h>
+
